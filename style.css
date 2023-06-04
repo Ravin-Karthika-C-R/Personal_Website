@@ -1,5 +1,6 @@
 body{
     background-color: antiquewhite;
+    background-image: linear-gradient(#9bedff, #9bedff);;
     margin: 0;
 }
 .navbar{
