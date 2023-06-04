@@ -43,9 +43,10 @@ img{
     background-color: #d3aee5;
 
 }
-#about{
+#about {
     background-color: white;
     justify-content:space-between;
+    width: 100%;
     
 
 }
@@ -65,8 +66,7 @@ img{
 #Projects{
     background-color: white;
     justify-content:space-between;
-    
-
+    width: 100%;
 }
 #Projects:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -75,8 +75,7 @@ img{
 #Contacts{
     background-color: white;
     justify-content:space-between;
-    
-
+    width: 100%;
 }
 #Contacts:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -101,6 +100,6 @@ img{
     max-width: 250px;
 }
 .row{
-    display: flex;
+    
     justify-content:space-between;
 }
