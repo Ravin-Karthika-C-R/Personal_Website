@@ -1,0 +1,99 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+}
+.collapse .navbarNavAltMarkup{
+    margin-bottom: auto;
+
+}
+.navbar-brand{
+    color: brown;
+    text-align: right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+.navbar-brand:hover{
+    
+    background: rgb(243, 200, 241);
+    width: 300px;
+    transition-timing-function: ease;
+}
+#container1 {
+
+    background-color: white;
+}
+img{
+    width: 100%;
+}
+#container1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.nav-item:hover{
+    background-color: #d3aee5;
+}
+.dropdown-menu{
+    background-color: #d3aee5;
+
+}
+#about{
+    background-color: white;
+    
+
+}
+#about:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.img1{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+#Projects{
+    background-color: white;
+    
+
+}
+#Projects:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+#Contacts{
+    background-color: white;
+    
+    
+
+}
+#Contacts:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.01);
+}
+.img2{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+.img3{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
