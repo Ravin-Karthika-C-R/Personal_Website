@@ -26,6 +26,8 @@ body{
 #container1 {
 
     background-color: white;
+    justify-content:space-between;
+    
 }
 img{
     width: 100%;
@@ -43,6 +45,7 @@ img{
 }
 #about{
     background-color: white;
+    justify-content:space-between;
     
 
 }
@@ -61,6 +64,7 @@ img{
 }
 #Projects{
     background-color: white;
+    justify-content:space-between;
     
 
 }
@@ -70,7 +74,7 @@ img{
 }
 #Contacts{
     background-color: white;
-    
+    justify-content:space-between;
     
 
 }
@@ -96,4 +100,7 @@ img{
     max-height: 72px;
     max-width: 250px;
 }
-
+.row{
+    display: flex;
+    justify-content:space-between;
+}
